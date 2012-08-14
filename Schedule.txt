@@ -1,0 +1,5 @@
+Bug列表：
+
+	1. 当编辑属性框正在编辑，此时点击Tree的项，Tree的Select Changed消息先于编辑框的KillFocus消息，
+导致更新到新选择的项上。
+	Soleved

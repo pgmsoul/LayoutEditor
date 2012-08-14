@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserType>
+  <CheckBox
+    Class="Button"
+    ExStyle="0"
+    Style="50000003"
+    Text="">
+  </CheckBox>
+  <GroupBox
+    Class="Button"
+    Style="50000007"
+    ExStyle="0"
+    Text="">
+  </GroupBox>
+</UserType>
